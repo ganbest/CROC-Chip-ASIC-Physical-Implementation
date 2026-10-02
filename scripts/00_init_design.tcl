@@ -16,7 +16,7 @@ set init_verilog "/ictc/student_data/huetrong_2307/fn_prj_here/input_data/netlis
 set init_design_uniquify 1
 set init_design_settop 1
 set init_top_cell "croc_chip"
-source /ictc/student_data/huuluong_2307/fn_prj_here/input_data/input_lef.tcl
+source /ictc/student_data/huetrong_2307/fn_prj_here/input_data/input_lef.tcl
 set init_lef_file $init_lef_file
 set init_mmmc_file "/ictc/student_data/huetrong_2307/fn_prj_here/input_data/croc_mmmc.view" 
 set init_pwr_net {VDD}
