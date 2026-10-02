@@ -12,7 +12,7 @@ setPreference ConstraintUserYOffset 0.1
 setPreference SnapAllCorners 1
 
 ###############################
-set init_verilog "/ictc/student_data/huuluong_2307/fn_prj_here/input_data/netlist/croc_chip_yosys.v" 
+set init_verilog "/ictc/student_data/huetrong_2307/fn_prj_here/input_data/netlist/croc_chip_yosys.v" 
 set init_design_uniquify 1
 set init_design_settop 1
 set init_top_cell "croc_chip"
